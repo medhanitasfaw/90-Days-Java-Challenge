@@ -1,0 +1,35 @@
+# Day 01-Java Challenge
+##What I learned
+
+Java syntax: rule/structure to write valid java program.
+case sensitive
+end with semi-colon
+class name use PascalCase
+variable and methode use camelCase
+
+Variable: like container, which holds the data.
+Data Type:-primitive: 8 in number
+          - reference: refer to object
+variables either declare, initialize or both
+we can convert smaller data type to larger type(widening) or larger to smaller(narrowing).
+
+There are different oprations in java.
+control flow:
+Decision-making statement:if,if else, if else if, swich: in modern we can use array to write the switch statement like this:
+           int day=2;
+            string result=switch(day){
+                    case 1->"Monday";
+                    case 2->"Tuesday";
+                    case 3->"Wednesday";
+                   };
+                  system.out.println(result);
+
+Looping statement: for loop:number of repetition is known.
+                   while loop: repetition depend on condition.
+                   Do-While: code must execute at least once.
+Practical Project: Grade Calculator
+A grade calculator applies variables, data types, user input, and type conversion to calculate and display a student's grade based on their score.
+
+
+## Self-Assessment
+status:completed!
